@@ -1,0 +1,21 @@
+{
+  "name": "css-positioning",
+  "authors": [
+    "Dominique Pianelli <dominique.pianelli@hobbylobby.com>"
+  ],
+  "description": "",
+  "main": "app.js",
+  "license": "MIT",
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.6.1"
+  }
+}
